@@ -5,5 +5,7 @@
 
 - Wireshark的使用以及QICQ协议分析；
 - ARP协议与DNS协议分析；
+- TCP协议与UDP协议分析；
+- 应用层HTTP与FTP协议分析；
 - 
 
