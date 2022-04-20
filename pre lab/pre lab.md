@@ -8,3 +8,9 @@
 
 掌握常用网络命令（ping、tracert、ipconfig、route等）的使用，掌握常用网络工具（如Wireshark，putty等）的使用。
 
+## 三. 实验内容
+
+1．常用网络命令练习；
+
+2．网络分析软件练习。
+
