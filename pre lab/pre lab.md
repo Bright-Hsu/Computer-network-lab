@@ -53,3 +53,9 @@
 | DNS服务器    | 211.137.130.3，211.137.130.19 |
 
 #### 步骤2：
+
+用命令行修改本机IP地址和DNS服务器地址为自动获取方式，查看并记录网卡配置信息，与手动设置地址时的配置有什么不同？
+
+【参考命令：手动设置地址命令：netsh interface ip set address name="本地连接" static 192.168.1.101 255.255.255.0 192.168.1.1，netsh interface ip set dns name="本地连接" source=static add=202.117.1.20。自动获取地址命令：netsh interface ip set address name="本地连接" source=dhcp，netsh interface ip set dns name="本地连接" source=dhcp】
+
+**答：**手动设置地址，截图如下：
