@@ -37,3 +37,5 @@
 ![image-20220119200209648](https://gitee.com/bright_xu/blog-image/raw/master/202204221551633.png)
 
 使用`ipconfig /all`命令，可以看到其中以太网适配器`VMware Network Adapter VMnet1`和`VMware Network Adapter VMnet8`是虚拟网卡，其他4个都是物理网卡。WLAN部分截图如下：
+
+![image-20220119200442018](https://gitee.com/bright_xu/blog-image/raw/master/202204221551844.png "截图")
