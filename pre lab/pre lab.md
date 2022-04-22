@@ -14,3 +14,10 @@
 
 2．网络分析软件练习。
 
+## 四. 实验设备环境
+
+按照实际网络情况绘制拓扑图，实验结束后标注出内网、公网地址。【获取公网地址方式：Wireshark 抓包分析、查看路由器配置、访问 https://ip138.com/ 等网站和HTTP File Server软件等】。
+
+**答：**首先查询公网IP，如下图：
+
+![image-20220120154710504](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20220120154710504.png)
