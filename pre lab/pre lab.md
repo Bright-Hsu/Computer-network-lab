@@ -20,4 +20,9 @@
 
 **答：**首先查询公网IP，如下图：
 
-![image-20220120154710504](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20220120154710504.png)
+![image-20220120154710504](https://gitee.com/bright_xu/blog-image/raw/master/202204221550321.png)
+
+因此我的本机网络拓扑图如下：
+
+<img src="https://gitee.com/bright_xu/blog-image/raw/master/202204221550063.png" alt="image-20220120155015724" style="zoom:80%;" />
+
