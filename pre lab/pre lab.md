@@ -86,3 +86,8 @@
 
 **答：**与好友进行语音通话，本机截图如下：
 
+![image-20220119220507252](https://gitee.com/bright_xu/blog-image/raw/master/202204232248516.png)
+
+好友截图如下：
+
+![image-20220119220554672](https://gitee.com/bright_xu/blog-image/raw/master/202204232248915.png)
