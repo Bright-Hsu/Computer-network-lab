@@ -59,3 +59,4 @@
 【参考命令：手动设置地址命令：netsh interface ip set address name="本地连接" static 192.168.1.101 255.255.255.0 192.168.1.1，netsh interface ip set dns name="本地连接" source=static add=202.117.1.20。自动获取地址命令：netsh interface ip set address name="本地连接" source=dhcp，netsh interface ip set dns name="本地连接" source=dhcp】
 
 **答：**手动设置地址，截图如下：
+
