@@ -60,3 +60,6 @@
 
 **答：**手动设置地址，截图如下：
 
+![image-20220119213118500](https://gitee.com/bright_xu/blog-image/raw/master/202204232247102.png)
+
+可以看到访问该网站时，用到了TCP协议和HTTP协议，主要作用如下：
