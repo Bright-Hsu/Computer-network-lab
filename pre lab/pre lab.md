@@ -150,3 +150,6 @@
 
 ![image-20220120152603824](https://gitee.com/bright_xu/blog-image/raw/master/202204242239490.png)
 
+退出QQ登录，抓到的包中command为`Log out(1)`，也就是退出登录，如下图：
+
+![image-20220120152752483](https://gitee.com/bright_xu/blog-image/raw/master/202204242239823.png)
