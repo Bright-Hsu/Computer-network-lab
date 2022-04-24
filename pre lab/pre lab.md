@@ -143,3 +143,10 @@
 登录QQ时，可以看到客户端先向QQ服务器发起连接，可以看到数据包携带的数据是登录的QQ号，这里也就是我的QQ号（2191579187），command信息是：`Request KEY(29)`，也就是验证密码是否正确，进行登录。在本次抓包中，客户端IP为192.168.1.104，QQ服务器IP地址为61.151.180.240 。
 
 登录成功后，服务器command变为`Get status of friend(129)`，开始获取QQ好友的状态。还会有各种命令，用于获取好友信息和进行消息发送。下列一系列图都是具体的command。
+
+![image-20220120151815293](https://gitee.com/bright_xu/blog-image/raw/master/202204242238125.png)
+
+接收消息时，抓到的数据包command为`Receive message`，如下图：
+
+![image-20220120152603824](https://gitee.com/bright_xu/blog-image/raw/master/202204242239490.png)
+
