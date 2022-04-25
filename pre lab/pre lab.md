@@ -146,6 +146,8 @@
 
 ![image-20220120151815293](https://gitee.com/bright_xu/blog-image/raw/master/202204242238125.png)
 
+![image-20220120151744708](https://gitee.com/bright_xu/blog-image/raw/master/202204252322026.png)
+
 接收消息时，抓到的数据包command为`Receive message`，如下图：
 
 ![image-20220120152603824](https://gitee.com/bright_xu/blog-image/raw/master/202204242239490.png)
