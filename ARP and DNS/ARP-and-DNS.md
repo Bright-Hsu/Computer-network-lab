@@ -11,3 +11,7 @@
 （2）用Wireshark截获ARP报文，分析报文结构及ARP协议在同一网段和不同网段间的解析过程；
 
 （3）用Wireshark截取DNS报文，分析DNS工作过程。
+
+## **三、** **实验网络拓扑结构**
+
+![image-20220429234214381](https://gitee.com/bright_xu/blog-image/raw/master/202204292342536.png)
